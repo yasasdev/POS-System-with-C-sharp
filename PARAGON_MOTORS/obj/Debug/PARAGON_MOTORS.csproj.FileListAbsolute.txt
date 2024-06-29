@@ -1,0 +1,501 @@
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\My Documents\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CopyComplete
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ItemRegistryForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PurchaiseOrderForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.CreditInvoicesForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturnForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.CustomersForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.HoldedOrdersForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PettyCashForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.NewGRNForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+D:\POS Systems\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.CreditInvoicesForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.CustomersForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm1.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.NewGRNForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.HoldedOrdersForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturnForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ItemRegistryForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PettyCashForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PurchaiseOrderForm.resources
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CopyComplete
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.CreditInvoicesForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PettyCashForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CopyComplete
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.ResolveComReference.cache
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ChangeAccountSetting.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddQuantityForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ContactUS.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LowStockForm.resources
+D:\My Official Works\POS Systems\Projects\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturn.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.ResolveComReference.cache
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddCategoryForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ChangeAccountSetting.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ContactUS.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddQuantityForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturn.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LowStockForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.PettyCashForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\My Official Works\POS Systems\Projects\New folder\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CopyComplete
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.ResolveComReference.cache
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddCategoryForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ChangeAccountSetting.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ContactUS.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddQuantityForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturn.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LowStockForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CopyComplete
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+D:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\Interop.AdHocReportingExcelClientLib.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\Interop.Office2013CustomActionsLib.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.ResolveComReference.cache
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddCategoryForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ChangeAccountSetting.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ContactUS.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddQuantityForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturn.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LowStockForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_.176780AD.Up2Date
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MongoDB.Bson.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Newtonsoft.Json.dll
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MongoDB.Bson.xml
+E:\My Official Works\POS Systems\Projects\SAKURA MOBILE (Thambuththegama)\PARAGON MOTORS (Manuka Premadasa)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Newtonsoft.Json.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe.config
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.exe
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PARAGON_MOTORS.pdb
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Design.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MetroFramework.Fonts.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MongoDB.Bson.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Newtonsoft.Json.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\PrinterUtility.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\ZstdSharp.dll
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.pdb
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Google.Protobuf.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\K4os.Hash.xxHash.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MongoDB.Bson.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\MySql.Data.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\Newtonsoft.Json.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Buffers.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.IO.Pipelines.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Memory.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Numerics.Vectors.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.AssemblyReference.cache
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.ResolveComReference.cache
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddCategoryForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddNewUserForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AdministratorLOGIN.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ChangeAccountSetting.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.ContactUS.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Dashboard.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DeleteUserForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.DisplayUserForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.AddQuantityForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceReturn.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LowStockForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SalesReport.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.UpdateUserForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNform.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNHistoryForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.GRNRetrunForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.InvoiceHistoryForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LogHistoryForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.LoginForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.Properties.Resources.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.SuppliersForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.StockForm.resources
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.GenerateResource.cache
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.csproj.CoreCompileInputs.cache
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_.176780AD.Up2Date
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.exe
+E:\My Official Works\POS Systems with C#\Projects\SAKURA MOBILE (Thambuththegama)\SAKURA MOBILE (Thambuththegama)\PARAGON_MOTORS\PARAGON_MOTORS\obj\Debug\PARAGON_MOTORS.pdb
